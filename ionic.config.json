@@ -1,0 +1,7 @@
+{
+  "name": "demoLoginJWT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
